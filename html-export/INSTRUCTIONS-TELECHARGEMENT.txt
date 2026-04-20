@@ -1,0 +1,75 @@
+=================================================================
+INSTRUCTIONS DE TÉLÉCHARGEMENT - SITE FPM HTML/CSS
+=================================================================
+
+📦 FICHIER À TÉLÉCHARGER
+-------------------------
+Fichier : fpm-website-html.tar.gz
+Emplacement : /workspaces/default/code/fpm-website-html.tar.gz
+Taille : 16 KB
+
+📂 EXTRACTION DE L'ARCHIVE
+--------------------------
+Sur Windows :
+  1. Téléchargez 7-Zip (gratuit) : https://www.7-zip.org/
+  2. Clic droit > 7-Zip > Extraire ici
+
+Sur Mac :
+  1. Double-cliquez sur le fichier .tar.gz
+  2. L'archive sera extraite automatiquement
+
+Sur Linux :
+  tar -xzf fpm-website-html.tar.gz
+
+🖼️ IMAGES À AJOUTER
+-------------------
+⚠️ IMPORTANT : Les images ne sont pas incluses dans l'archive.
+
+Vous devez copier les images suivantes dans le dossier images/ :
+
+OBLIGATOIRES :
+  • logo-fpm.png          - Logo FPM (header et footer)
+  • partners-logos.png    - Bande de logos partenaires
+
+RECOMMANDÉES :
+  • hero-home.jpg         - Image d'accueil
+  • hero-impact.jpg       - Image page Impact
+  • akiba-yetu.jpg        - Success story COOPEC
+  • smico.jpg             - Success story IMF
+  • map-rdc.png           - Carte RDC
+
+📖 Consultez GUIDE-IMAGES.md pour savoir comment extraire ces images.
+
+🚀 UTILISATION
+--------------
+1. Extrayez l'archive
+2. Ajoutez les images dans le dossier images/
+3. Ouvrez index.html dans votre navigateur
+4. Le site fonctionne sans serveur web !
+
+📤 HÉBERGEMENT WEB
+------------------
+Pour mettre en ligne :
+  1. Uploadez tout le contenu du dossier html-export/ sur votre serveur
+  2. Le fichier index.html doit être à la racine
+  3. Configurez votre domaine pour pointer vers ce dossier
+  4. C'est tout ! Pas de base de données ni de configuration serveur nécessaire
+
+✨ FONCTIONNALITÉS INCLUSES
+----------------------------
+✅ Navigation responsive (desktop + mobile)
+✅ Menu hamburger mobile
+✅ Compteurs animés (page Impact)
+✅ Graphiques genre par secteur
+✅ Animations au scroll
+✅ Bouton retour en haut
+✅ Validation de formulaire basique
+✅ Sélecteur de langue FR/EN
+
+🆘 SUPPORT
+----------
+Email : administration@fpmsa-rdc.com
+Téléphone : +243 976 596 005
+
+© 2026 FPM - Fonds pour l'inclusion financière en RD Congo
+=================================================================
